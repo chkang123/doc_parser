@@ -1,0 +1,5 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+pydantic-settings>=2.3.4
+marker-pdf>=1.8.0
